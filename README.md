@@ -3,7 +3,7 @@
 ## 🌟 Live Demo
 - **URL**: https://wonderful-bush-045d64800.2.azurestaticapps.net
 - **GitHub Repository**: https://github.com/kiran2046/AI
-- **QR Code**: [Generate QR code for easy mobile access]
+- **QR Code**: https://github.com/kiran2046/AI/blob/main/QR.png
 
 ## 📱 Project Overview
 A premium mobile-first web application that dynamically adapts its functionality based on device orientation, featuring four distinct tools with stunning UI/UX design and seamless transitions.
@@ -205,4 +205,5 @@ This hackathon submission demonstrates:
 - **Innovation**: Features that exceed requirements and expectations
 
 *Made By Kiran*
+
 
