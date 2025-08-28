@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+  <meta name="theme-color" content="#764ba2" />
+  <meta name="description" content="AI-powered mobile app that changes features based on device orientation - Hackathon winning prototype" />
+  <title>Prompt This Into Existence! | Hackathon</title>
+  
+  <!-- PWA Manifest -->
+  <link rel="manifest" href="manifest.json" />
+  
+  <!-- Preload critical resources -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://api.openweathermap.org">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css" />
+  
+  <!-- iOS PWA Support -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Orientation App">
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>🏆 Prompt This Into Existence!</h1>
+      <p id="orientation-label">Detecting orientation...</p>
+    </header>
+    <main id="feature-container">
+      <!-- Feature content will be injected here -->
+    </main>
+    <footer>
+      <small>Made for the Hackathon | Powered by AI ✨ | Made By Kiran</small>
+    </footer>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
